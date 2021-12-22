@@ -1,0 +1,14 @@
+códigos:
+mkdir - criar uma pasta 
+dir - listar
+cls - limpar terminal
+cd - navegar 
+tecla TAB - preencher texto
+cd.. - sair da pasta/retornar a pasta anterior
+del - deletar arquivo em pasta
+rmdir - remover pasta
+git status - status da pasta
+mv - mover pasta
+git add - "ativer pasta"
+git commit -m - inserir mensagem
+git push origin main - enviar commit para nuvem
